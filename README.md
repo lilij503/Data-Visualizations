@@ -1,2 +1,2 @@
-# Tableau
+# Data Visualizations
 Data Visualizations  
