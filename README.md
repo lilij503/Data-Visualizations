@@ -1,2 +1,2 @@
 # Tableau
-Tableau 
+Data Visualizations  
